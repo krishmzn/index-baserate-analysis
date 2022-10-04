@@ -1,5 +1,5 @@
 # Relation between NEPSE Index and Base Rate
-## The analysis showed a inverse relation between market index and lending rates.
+## The analysis showed an inverse relation between market index and lending rates.
 ## The analysis process in simple terms:
 ### 1. 'main.py' file scrapes base rate data from NICA website and saves as 'scrapedfile.csv'
 ### 2. market index data is imported from sharesansar
